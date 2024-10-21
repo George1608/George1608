@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @George1608
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 How to reach me georgeprasath007@gmail.com
 - 
